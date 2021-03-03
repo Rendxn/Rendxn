@@ -11,7 +11,7 @@ const santiago: Dev = {
   speaks: ["Español", "English"],
   code: [Javascript, Typescript, HTML, CSS, PHP],
   tools: [Vue.js, React, Laravel, Node, "Styled-Components", Jest, Docker],
-  hobbies: ["Playing videogames", "Coding", "Travelling"],
+  hobbies: ["Playing videogames 🎮", "Coding 💻", "Travelling ✈️"],
 };
 ```
 
