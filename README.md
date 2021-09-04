@@ -9,8 +9,8 @@ const santiago: Dev = {
   name: "Santiago Rendón",
   country: "Colombia",
   speaks: ["Español", "English"],
-  code: [Javascript, Typescript, HTML, CSS, PHP],
-  tools: [Vue.js, React, Laravel, Node, "Styled-Components", Jest, Docker],
+  code: [Javascript, Typescript, HTML, CSS, PHP, Java],
+  tools: [Vue.js, React, Laravel, Node, "Styled-Components", Docker],
   hobbies: ["Playing videogames 🎮", "Coding 💻", "Travelling ✈️"],
 };
 ```
