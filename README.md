@@ -1,6 +1,6 @@
 ## Hi, I'm Santiago Rendón <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px">
 
-Hi, I am Santiago Rendón a passionate Full Stack web developer and a freelance software engineer from Colombia. I love creating things with beautiful interfaces and simple interactions.
+Hi, I am Santiago Rendón a passionate web developer from Colombia. I love creating things with beautiful interfaces and simple interactions.
 
 I am currently coursing 8th semester at Universidad Nacional de Colombia where I am studying Systems Engineering.
 
