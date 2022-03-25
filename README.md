@@ -1,16 +1,17 @@
 ## Hi, I'm Santiago Rendón <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px">
 
-Hi, I am Santiago Rendón a passionate web developer from Colombia. I love creating things with beautiful interfaces and simple interactions.
+Hi, I am Santiago Rendón a passionate web developer from Colombia. I love creating things with beautiful interfaces and simple interactions, advocating for accessibility.
 
-I am currently coursing 8th semester at Universidad Nacional de Colombia where I am studying Systems Engineering.
+I am currently coursing 10th semester at Universidad Nacional de Colombia where I am studying Systems Engineering.
+I am also currently learning 💻 Three.js.
 
 ```ts
 const santiago: Dev = {
   name: "Santiago Rendón",
   country: "Colombia",
   speaks: ["Español", "English"],
-  code: [Javascript, Typescript, HTML, CSS, PHP, Java],
-  tools: [Vue.js, React, Laravel, Node, "Styled-Components", Docker],
+  code: [Javascript, Typescript, HTML, CSS, PHP, Node.js],
+  tools: [Vue.js, React, Laravel],
   hobbies: ["Playing videogames 🎮", "Coding 💻", "Travelling ✈️"],
 };
 ```
