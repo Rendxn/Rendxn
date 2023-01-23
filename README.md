@@ -10,8 +10,7 @@ const santiago: Dev = {
   name: "Santiago Rendón",
   country: "Colombia",
   speaks: ["Español", "English"],
-  code: ["Typescript", "Javascript", "Node.js", "HTML", "CSS"],
-  tools: ["Vue.js", "React"],
+  code: ["Typescript"],
   hobbies: ["Playing videogames 🎮", "Coding 💻", "Travelling ✈️", "Weightlifting 💪"],
 };
 ```
