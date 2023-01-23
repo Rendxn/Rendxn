@@ -1,9 +1,9 @@
 ## Hi, I'm Santiago Rendón <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px">
 
-Hi, I am Santiago Rendón a passionate software developer from Colombia. I love everything web dev, currently. From DevOps, QA and performance to Backend, Frontend and even design.
+Hi, I am Santiago Rendón a passionate software engineer from Colombia. I love everything web dev, but will dive into any challenge. I'm interested in Frotnend, Backend, DevOps, QA, performance, and even design.
 
-I am currently an intern at Perficient Latam, working on QA and automation.
-I am also currently learning 💻 Three.js and QA tools.
+I am currently working at Perficient Latam as QA automation.
+I am also currently learning 💻 about QA 🧪, Three.js 🐉 and Go 🔵.
 
 ```ts
 const santiago: Dev = {
