@@ -10,7 +10,7 @@ santiago := &Dev{
   Name: "Santiago Rendón",
   Country: "Colombia",
   Speaks: []string{"Español", "English"},
-  Hobbies: []string{"Playing videogames 🎮", "Coding 💻", "Travelling ✈️", "Weightlifting 💪"}
+  Hobbies: []string{"Playing videogames 🎮", "Coding 💻", "Travelling ✈️", "Weightlifting 💪"},
 }
 ```
 
