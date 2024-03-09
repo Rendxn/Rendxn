@@ -1,18 +1,17 @@
 ## Hi, I'm Santiago Rendón <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px">
 
-Hi, I am Santiago Rendón a passionate software engineer from Colombia. I love everything web dev, but will dive into any challenge. I'm interested in Frontend, Backend, DevOps, QA, performance, and even design.
+Hi, I am Santiago Rendón a passionate software engineer from Colombia. I love everything dev, from Frontend to Backend, DevOps, QA and design.
 
-I am currently working at Perficient Latam as QA automation.
-I am also currently learning about QA 🧪, Three.js 🐉 and Go 🔵.
+I am currently working at Perficient Latam as a Software Engineer.
+I am also currently learning about Three.js 🐉 and Go 🔵.
 
-```ts
-const santiago: Dev = {
-  name: "Santiago Rendón",
-  country: "Colombia",
-  speaks: ["Español", "English"],
-  code: ["Typescript"],
-  hobbies: ["Playing videogames 🎮", "Coding 💻", "Travelling ✈️", "Weightlifting 💪"],
-};
+```go
+santiago := &Dev{
+  Name: "Santiago Rendón",
+  Country: "Colombia",
+  Speaks: []string{"Español", "English"},
+  Hobbies: []string{"Playing videogames 🎮", "Coding 💻", "Travelling ✈️", "Weightlifting 💪"}
+}
 ```
 
 <a href="https://www.linkedin.com/in/sarendongi/" target="_blank" rel="noopener noreferrer">
