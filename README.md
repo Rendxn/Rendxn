@@ -3,7 +3,7 @@
 Hi, I am Santiago Rendón a passionate software engineer from Colombia. I love everything dev, from Frontend to Backend, DevOps, QA and design.
 
 I am currently working at Perficient Latam as a Software Developer.
-I am also currently learning about WebSockets and Go 🔵.
+I am also currently learning about Go, Flutter and WebSockets.
 
 ```go
 santiago := &Dev{
