@@ -1,16 +1,15 @@
 ## Hi, I'm Santiago Rendón 👋
 
-Hi, I am Santiago Rendón a passionate software engineer from Colombia. I love everything dev, from Frontend to Backend, DevOps, QA and design.
+Hi, I am Santiago Rendón a passionate software engineer from Colombia. I enjoy crafting great experiencies through software.
 
-I am currently working at Perficient Latam as a Software Developer.
-I am also currently learning about Go, Flutter and WebSockets.
+I am currently working at Globant as a Software Engineer.
 
 ```go
 santiago := &Dev{
   Name: "Santiago Rendón",
   Country: "Colombia",
   Speaks: []string{"Español", "English"},
-  Hobbies: []string{"Playing videogames 🎮", "Coding 💻", "Travelling ✈️", "Weightlifting 💪"},
+  Hobbies: []string{"Playing videogames 🎮", "Coding 💻", "Travelling ✈️", "Lifting 💪", "Fútbol ⚽"},
 }
 ```
 
